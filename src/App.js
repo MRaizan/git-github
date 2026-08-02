@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>React Project Group 3</p>
+        <p>React Project Group Akali</p>
         <p>Members: Raizan and Reyes</p>
         <a
           className="App-link"
